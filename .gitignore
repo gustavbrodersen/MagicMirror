@@ -16,3 +16,4 @@
 # Undtagelser: behold din konfiguration og egne moduler
 !config/config.js
 !modules/MMM-*/**
+.env

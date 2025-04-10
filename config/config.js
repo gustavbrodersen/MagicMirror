@@ -121,7 +121,7 @@ let config = {
         	module: 'MMM-GoogleTrafficTimes',
         	position: 'top_bar',
         	config: {
-            	key: '',
+            	key: null,
             	origin: {
                 address: '57.03516787553769,9.935990282846731',
                 addressFormat: 'coordinates',
